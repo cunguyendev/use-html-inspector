@@ -4,7 +4,7 @@ HTML/CSS play with Live Server
 
 Author: Cu Nguyen &lt;[cunguyen.dev@gmail.com](cunguyen.dev@gmail.com)&gt;
 
-Deploy to Netlify: https://html-css-liveserver.netlify.app/
+Deploy to Netlify: https://use-html-inspector.netlify.app/
 
 ## Introduction about HTML inspector
 
